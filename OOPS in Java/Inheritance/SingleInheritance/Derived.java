@@ -12,6 +12,7 @@ class Derived extends Base{
 
     void methodofDerivedClass(){
         System.out.println("Hey This is Derived Class's method");
+        System.out.println("Sourbh");
     }
     
     public static void main(String[] args) {
